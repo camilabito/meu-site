@@ -62,5 +62,7 @@ main .main-content{
     flex-direction: column;
 }
 main .main-content h2{
+    margin-bottom: 2%;
+    font-size: 2.2em;
     
 }
