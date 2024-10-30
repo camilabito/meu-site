@@ -73,3 +73,7 @@ line-height: 1.6em;
 padding: 0.5%;
 }
 /*Cards*/
+main .techs .cards-container{
+    display: flex;
+    align-items: center;
+}
