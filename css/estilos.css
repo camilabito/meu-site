@@ -65,6 +65,9 @@ main .main-content h2{
     margin-bottom: 2%;
     font-size: 2.2em;
 }
+main .main-content .text {
+    margin-bottom: 10%;
+}
 main .main-content .text p{
 width: 75%;
 font-size: 1.2em;
@@ -88,5 +91,12 @@ main .techs .cards-container .card{
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: 0.2s ease-in-out;
+}
+main .techs .cards-container .card:nth-child(4){
+    margin-right: 0em;
+}
+main .techs .cards-container .card img{
+    width: 60%;
     transition: 0.2s ease-in-out;
 }
