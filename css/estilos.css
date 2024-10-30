@@ -60,5 +60,7 @@ main{
 main .main-content{
     display: flex;
     flex-direction: column;
+}
+main .main-content h2{
     
 }
