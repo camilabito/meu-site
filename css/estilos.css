@@ -130,4 +130,6 @@ main figure img:hover{
 }
 footer{
     background-color: #920151;
+    padding: 16px;
+    display: flex;
 }
